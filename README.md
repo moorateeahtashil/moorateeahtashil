@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Moorateeah Tashil Rye</h1>
-<h3 align="center">A passionate frontend developer from Mauritius</h3>
+
+<h1 align="center">Greetings! 👋 I am Moorateeah Tashil Rye</h1>
+<h3 align="center">A passionate digital sorcerer hailing from the enchanting island of Mauritius</h3>
+Hey digital pals! 👋 By day, I'm a code whisperer crafting software wonders. With over 4 years of experience in the mystical realms of programming, I fluently speak the languages of Java, PHP (including the enchanting Laravel and Magento), JavaScript (especially with the magic of Flutter), C, Python, C#, and C++. 🌐💻
+
+As a versatile full-stack sorcerer, I harness my powers to conjure captivating front-end experiences and weave robust back-end spells using frameworks like Laravel, .NET, and Tailwind. My pseudocode is poetry, rumored to make devs shed tears of joy. ✨📜
+
+Whether enchanting data with the ancient arts of SQL or brewing potent API potions, I'm constantly on the hunt for the perfect code elixir. Debugging is my arcane art, navigating code webs like an adventurer seeking the mythical golden bug. 🕵️‍♂️🐞
+
+Beware! I've battled dragons of legacy code, vanquished performance bottlenecks, and emerged victorious from the depths of dependency hell, armed with nothing but a trusty git branch. ⚔️🐉
+
+When not casting spells, you'll find me at tech conferences, sharing wisdom and brewing open-source potions for the software realm. Join me on this epic journey through the vast code cosmos! 🚀🌌
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moorateeahtashil&label=Profile%20views&color=0e75b6&style=flat" alt="moorateeahtashil" /> </p>
 
@@ -7,13 +17,25 @@
 
 - 🔭 I’m currently working at **Lucrin Mauritius Ltd as Team Lead**
 
-- 🌱 I’m currently learning **Flutter, React , .NET**
+- 🌱 I’m currently learning **Flutter, React , .NET, Machine Learning, Project Mangement**
 
-- 💬 Ask me about **Abode Commerce (Magento) , SQL**
+- 💬 Ask me about **SQL, Programming**
+
+- 🏅 Ranked 6th in Computer Science National Level in 2016 (Mauritius)
+  
+- 🎖 Merit in Computer Science, Mathematics & Physics & 🌍 Head Leo Club Environment (College)
+
+- 📚 Dean's Merit List Year 1 - 3 & 🎓 Faculty representative FOICDT & 💻 Executive member Computer Club & Oracle Club(University)
+
+- 💬 Hobbies are **Watching Anime and trying out latest design trends as hobbies/side hustles.**
 
 - 📫 How to reach me **tashil0110@gmail.com**
 
+- 🎓 BSc(Hons) in Computer Science, University of Mauritius, 2019 - 2019
+
 - ⚡ Fun fact **while(alive){eat();sleep();code();repeat();}**
+
+- 🤝 Member and Director of Public Relations - Rotaract Club of Quatre Bornes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
