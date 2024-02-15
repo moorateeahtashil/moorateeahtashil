@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Welcome GIF" width="300" height="200">
+  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Welcome GIF" width="400" height="300">
 </div>
 <h2 align="center">I'm Moorateeah Tashil Rye 💼</h2>
 <h3 align="center">An accomplished software engineer originating from the captivating island of Mauritius 🌴</h3>
