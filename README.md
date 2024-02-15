@@ -1,8 +1,7 @@
 
-<div align="center">
-  <h2>Moorateeah Tashil Rye</h2>
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Welcome GIF" >
-</div>
+# Moorateeah Tashil Rye
+
+![Welcome GIF](https://octodex.github.com/images/NUX_Octodex.gif)
 
 
 <h3 align="center">An accomplished software engineer originating from the captivating island of Mauritius 🌴</h3>
