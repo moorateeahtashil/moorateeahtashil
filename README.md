@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>Moorateeah Tashil Rye</h2>
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Welcome GIF" width="400" height="300">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Welcome GIF" >
 </div>
 
 
