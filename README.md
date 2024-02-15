@@ -1,6 +1,7 @@
 
-<h1 align="center">Greetings! 👋 I am Moorateeah Tashil Rye</h1>
-<h3 align="center">A passionate digital sorcerer hailing from the enchanting island of Mauritius</h3>
+<h1 align="center">Welcome! 🌟</h1>
+<h2 align="center">I'm Moorateeah Tashil Rye 💼</h2>
+<h3 align="center">An accomplished software engineer originating from the captivating island of Mauritius 🌴</h3>
 Hey digital pals! 👋 By day, I'm a code whisperer crafting software wonders. With over 4 years of experience in the mystical realms of programming, I fluently speak the languages of Java, PHP (including the enchanting Laravel and Magento), JavaScript (especially with the magic of Flutter), C, Python, C#, and C++. 🌐💻
 
 As a versatile full-stack sorcerer, I harness my powers to conjure captivating front-end experiences and weave robust back-end spells using frameworks like Laravel, .NET, and Tailwind. My pseudocode is poetry, rumored to make devs shed tears of joy. ✨📜
