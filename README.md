@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h2>I'm Moorateeah Tashil Rye 💼</h2>
-  <img src="[https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Welcome GIF" width="400" height="300">
+  <h2>Moorateeah Tashil Rye</h2>
+  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Welcome GIF" width="400" height="300">
 </div>
 
 
