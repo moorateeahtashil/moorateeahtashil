@@ -1,5 +1,7 @@
 
-<h1 align="center">Welcome! 🌟</h1>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Welcome GIF">
+</div>
 <h2 align="center">I'm Moorateeah Tashil Rye 💼</h2>
 <h3 align="center">An accomplished software engineer originating from the captivating island of Mauritius 🌴</h3>
 
