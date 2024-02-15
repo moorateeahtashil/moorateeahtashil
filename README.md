@@ -1,11 +1,12 @@
 
 <div align="center">
   <h2>I'm Moorateeah Tashil Rye 💼</h2>
-</div>
-
-<div align="right">
+  <div align="right">
   <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Welcome GIF" width="400" height="300">
 </div>
+</div>
+
+
 <h3 align="center">An accomplished software engineer originating from the captivating island of Mauritius 🌴</h3>
 
 Hey digital pals! 👋 By day, I'm a code whisperer crafting software wonders. With over 4 years of experience in the mystical realms of programming, I fluently speak the languages of Java, PHP (including the enchanting Laravel and Magento), JavaScript (especially with the magic of Flutter), C, Python, C#, and C++. 🌐💻
