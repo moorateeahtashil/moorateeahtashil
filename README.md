@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Moorateeah Tashil Rye</h2>
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Welcome GIF" >
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 </div>
 
 <h3 align="center">A software engineer originating from the captivating island of Mauritius 🌴</h3>
